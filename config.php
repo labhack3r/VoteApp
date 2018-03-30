@@ -5,8 +5,8 @@
 	 */
 	class AssetParams
 	{
-		const INIT_QTY = 100;
-		const ASSET_NAME = "unibit";
+		const INIT_QTY = 1;
+		const ASSET_NAME = "voteToken";
 	}
 
 	/**
