@@ -9,7 +9,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>UniBit Web Wallet</title>
+    <title>VoteApp</title>
 
     <!-- Bootstrap core CSS -->
     <link href="dist/css/bootstrap.min.css" rel="stylesheet">
@@ -52,7 +52,7 @@
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Menu <span class="caret"></span></a>
               <ul class="dropdown-menu">
                 <li><a href="ic_overview.php">Overview</a></li>
-                <li><a href="ic_send_money.php">Send</a></li>
+                <li><a href="ic_send_money.php">Cast Vote</a></li>
                 <li><a href="ic_view_history.php">History</a></li>
               </ul>
             </li>
